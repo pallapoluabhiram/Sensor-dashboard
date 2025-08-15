@@ -1,0 +1,9 @@
+-rootPath
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard
+-cmake-output
+-output-file
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build/.qt/qml_imports/CameraSensorDashboard_conf.cmake
+-importPath
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build
+-importPath
+/usr/lib/x86_64-linux-gnu/qt6/qml

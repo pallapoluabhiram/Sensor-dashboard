@@ -1,0 +1,13 @@
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build/CMakeFiles/CameraSensorDashboard.dir
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build/CMakeFiles/CameraSensorDashboard_qmlimportscan.dir
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build/CMakeFiles/package.dir
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build/CMakeFiles/package_source.dir
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build/CMakeFiles/test.dir
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build/CMakeFiles/edit_cache.dir
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build/CMakeFiles/rebuild_cache.dir
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build/CMakeFiles/list_install_components.dir
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build/CMakeFiles/install.dir
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build/CMakeFiles/install/local.dir
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build/CMakeFiles/install/strip.dir
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build/CMakeFiles/CameraSensorDashboard_autogen_timestamp_deps.dir
+/home/computer/Downloads/cs2/camera-sensor-dashboard-project/camera-sensor-dashboard/build/CMakeFiles/CameraSensorDashboard_autogen.dir

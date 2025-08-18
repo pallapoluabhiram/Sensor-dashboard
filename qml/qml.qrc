@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CameraView.qml</file>
+        <file>SensorChart.qml</file>
+        <file>ControlPanel.qml</file>
+        <file>PlaybackControls.qml</file>
+        <file>SettingsPanel.qml</file>
+        <file>ErrorDialog.qml</file>
+    </qresource>
+</RCC>
